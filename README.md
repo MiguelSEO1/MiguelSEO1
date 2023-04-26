@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" width= "600" height="250" autoplay/>
+  <img src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" loop width= "600" height="250" />
 </div>
 
 
