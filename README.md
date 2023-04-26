@@ -1,7 +1,7 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1Y8W9ulKegQLFHp5f4/giphy.gif" alt="GIF de gato" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/1Y8W9ulKegQLFHp5f4/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
