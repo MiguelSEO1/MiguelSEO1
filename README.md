@@ -3,6 +3,7 @@
   <img src="https://media.giphy.com/media/1Y8W9ulKegQLFHp5f4/giphy.gif" alt="GIF de gato" />
 </p>
 
+---
 
 
 ### Hi there 👋
