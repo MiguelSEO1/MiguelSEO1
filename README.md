@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# Hi there 👋
+# Hola, soy Miguel 👋
 
 </div>
 
