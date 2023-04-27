@@ -1,7 +1,7 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xjxCjzWh14bd0La8F1/giphy-downsized-large.gif" 
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/xjxCjzWh14bd0La8F1/giphy-downsized-large.gif/" 
+</div>
 
 
 
