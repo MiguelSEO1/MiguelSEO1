@@ -25,33 +25,65 @@ Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces e
 
 ☕ Café sin Azúcar | :computer: Programar
 
-- :earth_americas: De Sanlúcar de Barrameda - España.
+- :earth_americas: De Sanlúcar de Barrameda - España
 - 🤖 Anime y Running
 - 🌱 Me apasiona el SEO & y competir con los algoritmos de Google.
 
 ## Tecnologías y Herramientas  
 ### Front-End Skills
 <div style="display:flex;">
+	<a href="https://github.com/github.com/MiguelSEO1">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+	</a>	
+  <a href="https://github.com/github.com/MiguelSEO1">
+		<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+	  </a>
+  <a href="https://github.com/github.com/MiguelSEO1">
+	  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </a>
+	  <a href="https://github.com/github.com/MiguelSEO1">
+	  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </a>
+		  <a href="https://github.com/github.com/MiguelSEO1">
+	  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+		</a>	  
 </div>
 
 ### Back-End Skills
 
 <div style="display:flex;">
+	<a href="https://github.com/github.com/MiguelSEO1">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+     </a>
+	<a href="https://github.com/github.com/MiguelSEO1">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+	</a>
 </div>
 
 ### Database Skills
 
 <div style="display:flex;">
+<a href="https://github.com/github.com/MiguelSEO1">	
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+<a href="https://github.com/github.com/MiguelSEO1">	
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-</div>
+</a>
+<div style="display:flex;">
+
+#### Programing Tools
+<div style="display:flex;">
+<a href="https://github.com/ArielCalisaya">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+<a href="https://github.com/github.com/MiguelSEO1">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+</a>
+<a href="https://github.com/github.com/MiguelSEO1">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</a>
+<div style="display:flex;">
+
 
 #### CMS & Database Skills
 
@@ -62,22 +94,17 @@ Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces e
 <a href="https://github.com/github.com/MiguelSEO1">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 </a>
+</div>
+
+## Mis estadísticas de Github  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MiguelSEO1&show_icons=true&theme=gotham" />
+
+## Conecta conmigo
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelSEO1&show_icons=true&theme=dark)  
-
-
-
-### Conecta conmigo
-
-
-<a href="https://www.linkedin.com/in/matias-exequiel-cecci" target="_blank" rel="noreferrer"> <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" width="50" height="50"/></a> 
-<br/>
-
-
-<p align="RIGHT"> <img src="https://komarev.com/ghpvc/?username=matias-cecci&label=Profile%20views&color=0e75b6&style=flat" alt="matias-cecci" /> </p>
-
+<a href="https://www.linkedin.com/in/miguelangelceballossosa/">
+  <p align="center"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></p>
+</a> 
 
 
 
