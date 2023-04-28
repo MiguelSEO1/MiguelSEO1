@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces elegantes y una cuidada experiencia de usuario, arquitectura y calidad del código. Como especialista en software, mi objetivo es crear soluciones innovadoras y funcionales que marquen la diferencia.
 
-## Algo más sobre mí
+
+<h2>Algo más sobre mí <img src="https://camo.githubusercontent.com/93c948e74d1bc55c21853e968f1efebd5aa58746ed8bea28237417d3006cdc29/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f7a3878574865626142796d56715574712f67697068792e676966" style="border-radius:50%" width="30" /></h2>
 
 ☕ Café sin Azúcar | :computer: Programar
 
@@ -92,14 +93,15 @@ Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces e
 
 <div style="display:flex;">
 <a href="https://github.com/MiguelSEO1">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+</a>	
+<a href="https://github.com/MiguelSEO1">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </a>
-<a href="https://github.com/MiguelSEO1">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-</a>
+
 </div>
 
-<h2>Mis estadísticas de Github <img src="https://camo.githubusercontent.com/09acbc6ee0482ed5a58365364190e9285054b3efea9ff48b0b25f9abdf006f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6e4e4f41506a55646f346d705a466b4466382f67697068792e676966" width="50" /></h3>
+<h2>Mis estadísticas de Github <img src="https://camo.githubusercontent.com/09acbc6ee0482ed5a58365364190e9285054b3efea9ff48b0b25f9abdf006f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6e4e4f41506a55646f346d705a466b4466382f67697068792e676966" width="50" /></h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MiguelSEO1&show_icons=true&theme=gotham" />
 
 ## Conecta conmigo
