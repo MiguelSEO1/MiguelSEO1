@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 	
    <img align="right" alt="GIF" src="https://camo.githubusercontent.com/3cdc0b0a0b6d3d32ea8c14270d0dff8bda5d4f5a0478389000fd75226988889d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f754d30517a724857534472344b77624333762f67697068792e676966" style="border-radius:50%" width="450" height="250" />
 
-# </Hello World!> <img  src="https://camo.githubusercontent.com/2749e21deaadd3fb4a4feccd9af8aa6f3a2ea087c66e4533972fc91dd87a3a69/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f366e543944536f69555659512f67697068792e676966" style="border-radius:50%" width="30" alt="GIF Creación" />
+<h1 align="center"> Hello World! <img  src="https://camo.githubusercontent.com/2749e21deaadd3fb4a4feccd9af8aa6f3a2ea087c66e4533972fc91dd87a3a69/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f366e543944536f69555659512f67697068792e676966" style="border-radius:50%" width="30" alt="GIF Creación" /> </h3>
 Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces elegantes y una cuidada experiencia de usuario, arquitectura y calidad del código. Como especialista en software, mi objetivo es crear soluciones innovadoras y funcionales que marquen la diferencia.
 
 ## Algo más sobre mí
@@ -102,9 +102,10 @@ Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces e
 ## Conecta conmigo
 
 
-<a href="https://www.linkedin.com/in/miguelangelceballossosa/">
+<a href="https://www.linkedin.com/in/miguelangelceballossosa/" target="_blank">
   <p align="center"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></p>
-</a> 
+</a>
+
 
 
 
