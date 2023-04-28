@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces elegantes y una cuidada experiencia de usuario, arquitectura y calidad del código. Como especialista en software, mi objetivo es crear soluciones innovadoras y funcionales que marquen la diferencia.
 
 
-<h2>Algo más sobre mí <img src="https://camo.githubusercontent.com/93c948e74d1bc55c21853e968f1efebd5aa58746ed8bea28237417d3006cdc29/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f7a3878574865626142796d56715574712f67697068792e676966" style="border-radius:50%" width="30" /></h2>
+<h2>Algo más sobre mí</h2>
 
 ☕ Café sin Azúcar | :computer: Programar
 
