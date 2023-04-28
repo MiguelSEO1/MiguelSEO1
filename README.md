@@ -102,7 +102,7 @@ Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces e
 ## Conecta conmigo
 
 
-<a href="https://www.linkedin.com/in/miguelangelceballossosa/" target="_blank">
+<a href="https://www.linkedin.com/in/miguelangelceballossosa/" target="blank">
   <p align="center"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></p>
 </a>
 
