@@ -32,7 +32,7 @@ Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces e
 ## Tecnologías y Herramientas  
 ### Front-End Skills
 <div style="display:flex;">
-	<a href="https://github.com/github.com/MiguelSEO1">
+	<a href="https://github.com/MiguelSEO1">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 	</a>	
   <a href="https://github.com/github.com/MiguelSEO1">
