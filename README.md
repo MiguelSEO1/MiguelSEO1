@@ -34,7 +34,7 @@ Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces e
  🌱 Me apasiona el SEO & y competir con los algoritmos de Google.
 
 ## Tecnologías y Herramientas  
-### Front-End Skills
+### Habilidades de Front-End 
 <div style="display:flex;">
 	<a href="https://github.com/MiguelSEO1">
   		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -53,7 +53,7 @@ Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces e
 		</a>	  
 </div>
 
-### Back-End Skills
+### Habilidades de Back-End 
 
 <div style="display:flex;">
 	<a href="https://github.com/MiguelSEO1">
@@ -64,7 +64,7 @@ Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces e
 	</a>
 </div>
 
-### Database Skills
+### Habilidades de Base de Datos
 
 <div style="display:flex;">
 <a href="https://github.com/MiguelSEO1">	
@@ -75,7 +75,7 @@ Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces e
 </a>
 <div style="display:flex;">
 
-### Programing Tools
+### Herramientas de Programación
 <div style="display:flex;">
 <a href="https://github.com/MiguelSEO1">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -89,7 +89,7 @@ Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces e
 <div style="display:flex;">
 
 
-### CMS & Design Tools
+### CMS & Herramientas de Diseño
 
 <div style="display:flex;">
 <a href="https://github.com/MiguelSEO1">
