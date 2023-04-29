@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces elegantes y una cuidada experiencia de usuario, arquitectura y calidad del código. Como especialista en software, mi objetivo es crear soluciones innovadoras y funcionales que marquen la diferencia.
 
 
-<h2>Algo más sobre mí</h2>
+<h2>Algo más sobre Mí</h2>
 
 ☕ Café sin Azúcar | :computer: Programar
 
@@ -101,10 +101,10 @@ Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces e
 
 </div>
 
-<h2>Mis estadísticas de Github <img src="https://camo.githubusercontent.com/09acbc6ee0482ed5a58365364190e9285054b3efea9ff48b0b25f9abdf006f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6e4e4f41506a55646f346d705a466b4466382f67697068792e676966" width="50" /></h2>
+<h2>Mis Estadísticas de Github <img src="https://camo.githubusercontent.com/09acbc6ee0482ed5a58365364190e9285054b3efea9ff48b0b25f9abdf006f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6e4e4f41506a55646f346d705a466b4466382f67697068792e676966" width="50" /></h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MiguelSEO1&show_icons=true&theme=gotham" />
 
-## Conecta conmigo
+## Conecta Conmigo
 
 
 <a href="https://www.linkedin.com/in/miguelangelceballossosa/" target="_blank">
