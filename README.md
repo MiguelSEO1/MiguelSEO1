@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 
 <div align="center">	
-   <img  alt="GIF" src="[https://camo.githubusercontent.com/3cdc0b0a0b6d3d32ea8c14270d0dff8bda5d4f5a0478389000fd75226988889d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f754d30517a724857534472344b77624333762f67697068792e676966" width="1200" height="300" style="border-radius:50%](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnN6ajl1dzE5eG5lYm1vbzhkenB5dm1hNHlodjc1NnQwZHVjczUzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hR1B7CPSzhq3S/giphy.gif)"/>
+   <img alt="GIF" src="https://i.giphy.com/media/hR1B7CPSzhq3S/giphy.gif" width="700" height="400" style="border-radius:50%"/>
 </div>
-<h1 align="center" style="margin-top: 20px;">Hello World! <img src="https://camo.githubusercontent.com/2749e21deaadd3fb4a4feccd9af8aa6f3a2ea087c66e4533972fc91dd87a3a69/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f366e543944536f69555659512f67697068792e676966" style="border-radius:50%" width="30" alt="GIF Creación" /></h1>
+
+<h1 align="center" style="margin-top: 20px;">Hello World! <img src="https://media.giphy.com/media/O6nT94SOiVVys/giphy.gif" width="30" alt="GIF Creación" /></h1>
 
 Soy Miguel, desarrollador web. Me apasiona hacer realidad ideas con interfaces elegantes y una cuidada experiencia de usuario, arquitectura y calidad del código. Como especialista en software, mi objetivo es crear soluciones innovadoras y funcionales que marquen la diferencia.
 
